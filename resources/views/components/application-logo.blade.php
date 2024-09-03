@@ -1,0 +1,1 @@
+<img src="{{asset('images/components/logo.png')}}" alt="" class="w-1/4 mx-auto mb-3">
